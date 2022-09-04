@@ -19,7 +19,7 @@ content:
   # phone: +86 131 *** 7865
   address:
     street: No. 701 Yunjin Road
-    city: Shanghai
+    city: Xuhui District
     region: Shanghai
     postcode: '200232'
     country: P.R. China
