@@ -15,8 +15,8 @@ subtitle:
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
-  phone: 888 888 88 88
+  email: xingcheng.xu18@gmail.com
+  phone: +86 131 *** 7865
   address:
     street: 450 Serra Mall
     city: Stanford
@@ -42,13 +42,13 @@ content:
   autolink: true
 
   # Email form provider
-  form:
+<!--   form:
     provider: netlify
     formspree:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+      captcha: false -->
 
 design:
   columns: '1'
