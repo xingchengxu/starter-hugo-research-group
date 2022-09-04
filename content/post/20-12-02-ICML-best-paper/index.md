@@ -1,16 +1,20 @@
 ---
-title: Jian Yang and ....
-date: 2020-12-02
+title: 2022 World Artificial Intelligence Conference held in Shanghai
+date: 2022-09-01
 image:
   focal_point: top
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+来源：央视网
+
+2022世界人工智能大会今天（9月3日）在上海闭幕，25个人工智能产业项目签约，总投资近150亿元，聚焦上海人工智能和元宇宙新赛道的产业创新。
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+    今年的大会以“智联世界、元生无界”为主题，聚焦虚拟原生、数字孪生和空间计算等元宇宙核心技术，并发布了元宇宙六大应用场景。25个“上海人工智能代表性产业项目”重磅签约，其中8家企业进行现场签约，17家企业在元宇宙会场同步签约，总投资近150亿元。从去年大会到今年大会共166个项目签约，总投资905亿元。
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+　　目前，上海人工智能形成了从核心芯片、算法平台、智能终端产品到行业应用的强韧产业链，自2019年以来，上海已先后发布3批共计58个人工智能重大应用场景，建设了一批围绕城市数字化转型的可复制、可推广的综合场景方案，展现在前沿技术应用上的先发优势。
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+　　上海市经信委主任吴金城表示，上海人工智能已形成产业集聚、创新活跃、要素融通、开放共享的良好发展生态，五年来，“以会兴业、以会引智、以会聚才”效果显著。人工智能产业规模从2018年1340亿元增长到2021年3056亿元，实现倍增，国家级重大创新平台揭牌运作，原创算法、智能芯片等关键技术取得突破，百余个重大应用场景示范赋能，智能网联汽车测试里程全国领先。全国1/3人工智能人才聚集上海。上海将加快人工智能世界级产业集群建设，推动我国新一代人工智能健康发展。
+
+　　此外，今年的世界人工智能大会还进行了AI科技人才全球云聘会，600余家企业发布一万余个AI相关岗位需求。（总台记者 杨静 刘子仪 孙慧升）
