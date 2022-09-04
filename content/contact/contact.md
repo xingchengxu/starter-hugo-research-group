@@ -18,7 +18,7 @@ content:
   email: xingcheng.xu18@gmail.com
   # phone: +86 131 *** 7865
   address:
-    street: No. 701 Yunjin Road
+    street: Floor 37-38, AI TOWER, No. 701 Yunjin Road
     city: Xuhui District
     region: Shanghai
     postcode: '200232'
@@ -27,10 +27,10 @@ content:
   coordinates:
     latitude: '31.16'
     longitude: '121.46'
-  directions: Floor 37-38, AI TOWER
-  office_hours:
-    - 'Workday 09:00 to 18:00'
-    # - 'Wednesday 09:00 to 10:00'
+  # directions: Floor 37-38, AI TOWER
+  # office_hours:
+  #  - 'Workday 09:00 to 18:00'
+  #  - 'Wednesday 09:00 to 10:00'
   # appointment_url: 'https://calendly.com'
   #contact_links:
   #  - icon: comments
