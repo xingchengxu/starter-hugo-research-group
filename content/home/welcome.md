@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: Receny-post-test
+widget_id: post-2022-09-04
 headless: true
 weight: 10
 title: Xingcheng Xu
