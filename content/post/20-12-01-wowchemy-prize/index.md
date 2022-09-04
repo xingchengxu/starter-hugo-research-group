@@ -1,14 +1,14 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
-date: 2020-12-01
+title: “OpenXLab浦源”人工智能开源开放体系发布，九大项目共建生态 | WAIC 2022
+date: 2022-09-01
 ---
 
-Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.
+2022年9月1日，2022世界人工智能大会（WAIC）在上海隆重开幕。上海人工智能实验室在WAIC 2022科学前沿全体会议上发布“OpenXLab浦源”人工智能开源开放体系，积极构建人工智能开放生态技术基座。
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+“OpenXLab浦源”包含九大开源项目，覆盖从感知到决策，从平面到立体，从数据到计算，从技术到人文教育的各个方面。它将推动人工智能对产学研各领域全面赋能，为构建人工智能开放生态，推动人工智能科研与技术突破、交叉创新和产业落地提供全方位的算法与平台支撑。
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+人工智能的发展已进入一个全新阶段，开源开放已成为推动技术持续进步的行业共识和重要驱动力量。“‘OpenXLab浦源’代表着上海人工智能实验室在人工智能探索道路上到达了新的里程碑。”上海人工智能实验室教授林达华表示，“X代表着未知、开放与成长，而‘浦源’意味着上海人工智能实验室立足黄浦江畔，以上海为策源地，面向全球，面向未来，以原创的人工智能开源技术，携手合作伙伴共同打造人工智能开源开放生态。”
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+(来源：上海人工智能实验室)
