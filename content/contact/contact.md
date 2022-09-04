@@ -16,9 +16,9 @@ content:
   # Contact (edit or remove options as required)
 
   email: xingcheng.xu18@gmail.com
-  # phone: +86 131 *** 7865
+  # phone: 
   address:
-    street: Floor 37-38, AI TOWER, No. 701 Yunjin Road
+    street: AI TOWER, No. 701 Yunjin Road
     city: Xuhui District
     region: Shanghai
     postcode: '200232'
