@@ -14,4 +14,4 @@ design:
 hero_media: welcome.jpg
 ---
 <br>
-T﻿his is a template website from Wowchemy. For Information about *Xingheng Xu*, please visit the homepage: https://xingchengxu.github.io/
+This is a template website from Wowchemy. For Information about Xingheng Xu, please visit the homepage: https://xingchengxu.github.io/
