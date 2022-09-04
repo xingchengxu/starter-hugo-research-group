@@ -10,7 +10,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: icon.png
+    image: background_img.jfif
 hero_media: welcome.jpg
 ---
 <br>
