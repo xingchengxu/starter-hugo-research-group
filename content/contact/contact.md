@@ -18,16 +18,16 @@ content:
   email: xingcheng.xu18@gmail.com
   # phone: 
   address:
-    street: AI TOWER, No. 701 Yunjin Road
+    street: AI Tower, No. 701 Yunjin Road
     city: Xuhui District
     region: Shanghai
     postcode: '200232'
     country: P.R. China
     country_code: CN
   coordinates:
-    latitude: '31.16'
-    longitude: '121.46'
-  # directions: Floor 37-38, AI TOWER
+    latitude: '31.163124'
+    longitude: '121.459935'
+  directions: Shanghai AI Laboratory
   # office_hours:
   #  - 'Workday 09:00 to 18:00'
   #  - 'Wednesday 09:00 to 10:00'
