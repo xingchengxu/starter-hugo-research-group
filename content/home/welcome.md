@@ -16,4 +16,4 @@ hero_media: welcome.jpg
 
 <br>
 
-This is a template website from Wowchemy. For Information about *Xingheng Xu*, please visit the homepage: [https://xingchengxu.github.io](https://xingchengxu.github.io)
+*Xingcheng Xu* is a Researcher at Shanghai AI Laboratory & Pujiang Lab. He got his Ph.D. at the School of Mathematical Sciences at Peking University, and was a joint Ph.D. student at the Mathematical Institute, University of Oxford. His research interests focus on the intersection of mathematics, probability theory, machine learning and economics. *This site is under construction.* For more Information about *Xingheng Xu*, please visit his homepage: [https://xingchengxu.github.io](https://xingchengxu.github.io)
