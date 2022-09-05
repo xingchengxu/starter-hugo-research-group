@@ -16,4 +16,4 @@ hero_media: welcome.jpg
 
 <br>
 
-*Xingcheng Xu* is a Researcher at Shanghai AI Laboratory & Pujiang Lab. His research interests focus on the intersection of mathematics, probability theory, machine learning and economics. *This site is under construction.* For more Information about *Xingheng Xu*, please visit his homepage: [https://xingchengxu.github.io](https://xingchengxu.github.io)
+*Xingcheng Xu* is a Researcher at Shanghai AI Laboratory & Pujiang Lab. His research interests focus on the intersection of mathematics, probability theory, machine learning and economics. *This site is under construction.* For more information about *Xingheng Xu*, please visit his homepage: [https://xingchengxu.github.io](https://xingchengxu.github.io)
